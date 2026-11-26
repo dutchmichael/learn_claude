@@ -6,7 +6,7 @@ A learning log for getting comfortable with Claude Code. Entries are in date ord
 
 ## Ideas to learn next
 - [ ] Write a `CLAUDE.md` with project instructions (`/init`)
-- [ ] Make a git commit with Claude
+- [x] Make a git commit with Claude
 - [ ] Try plan mode (`Shift+Tab`) before a bigger change
 - [ ] Use `/help` and explore slash commands
 - [ ] Set permissions so Claude asks less often (`/permissions`)
